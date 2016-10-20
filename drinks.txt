@@ -3,3 +3,6 @@
 3. Orange Juice
 4. Beer 
 5. Tequila
+6.coke
+7.lemonade
+8.sprite
